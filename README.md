@@ -1,4 +1,4 @@
-# Ace Combat 3 Remix — test build
+# Ace Combat 3 Remix: Development build
 
 This is a development build of the PC port of **Ace Combat 3: Electrosphere**.
 The project is still a work in progress. Please report any issues you come
