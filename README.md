@@ -96,7 +96,7 @@ Any existing memory card with an AC3 save file should work as well
 ## Your settings
 
 Your settings live in the same place, `Documents\AC3R`.
-Changing these files directly is not recommended — please use `settings.exe`.
+Changing these files directly is not recommended; please use `settings.exe`.
 
 ---
 
@@ -110,3 +110,24 @@ Send these files from the game folder:
 | `config\BUILD.txt` | Which build this is                         |
 
 …and say what you were doing when it happened.
+
+---
+
+## Follow the project
+
+Progress updates, videos and behind-the-scenes looks at the work:
+
+- **X:** [@Ishanv9hj](https://x.com/Ishanv9hj)
+- **YouTube:** [@ishanantony5301](https://www.youtube.com/@ishanantony5301)
+- **Reddit:** [u/Sad_Egg_2313](https://www.reddit.com/user/Sad_Egg_2313/)
+- **Patreon:** [i5han](https://www.patreon.com/cw/i5han)
+
+---
+
+## Support the project
+
+If you're enjoying playing the game and would like to help the project keep
+moving, you can support its development on
+[Patreon](https://www.patreon.com/cw/i5han). Every bit of
+support is hugely appreciated, and so is simply playing, sharing it with
+friends and reporting what you find. Thank you!
