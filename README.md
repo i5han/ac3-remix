@@ -12,7 +12,7 @@ across on [GitHub Issues](https://github.com/i5han/ac3-remix/issues).
    [github.com/i5han/ac3-remix/releases](https://github.com/i5han/ac3-remix/releases)
    and extract it.
 
-2. **Add the disc.** Copy the *Ace Combat 3: Electrosphere* (SLUS-00972)
+2. **Add the disc.** Copy the *Ace Combat 3: Electrosphere US Version* (SLUS-00972)
    `.bin` and `.cue` files into the root folder, next to `ac3r.exe`.
    The image should match the Redump MD5:
 
