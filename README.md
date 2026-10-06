@@ -8,7 +8,7 @@ across on [GitHub Issues](https://github.com/i5han/ac3-remix/issues).
 
 ## Getting started
 
-1. **Download** the release zip from
+1. **Download** the latest release zip from
    [github.com/i5han/ac3-remix/releases](https://github.com/i5han/ac3-remix/releases)
    and extract it.
 
@@ -106,7 +106,7 @@ Send these files from the game folder:
 
 | File               | What it is                                  |
 |--------------------|---------------------------------------------|
-| `ac3r.log`         | What the game did, written every time it runs |
+| `ac3r.log`         | Debug logs from the game                    |
 | `config\BUILD.txt` | Which build this is                         |
 
 …and say what you were doing when it happened.
