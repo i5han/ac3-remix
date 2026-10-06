@@ -31,8 +31,8 @@ across on [GitHub Issues](https://github.com/i5han/ac3-remix/issues).
 
    | Mode         | What you get                                          |
    |--------------|-------------------------------------------------------|
-   | **Original** | The PlayStation's original picture (the default)      |
-   | **Clean**    | The same graphics style, rendered clean and sharp     |
+   | **Original** | The PlayStation's original picture                    |
+   | **Clean** (default)   | The same graphics style, rendered clean and sharp     |
    | **Remaster** | Remastered quality (needs a strong graphics card)     |
 
    Press **Apply**, close it, and start `ac3r.exe` again.
