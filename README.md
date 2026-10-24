@@ -12,12 +12,21 @@ across on [GitHub Issues](https://github.com/i5han/ac3-remix/issues).
    [github.com/i5han/ac3-remix/releases](https://github.com/i5han/ac3-remix/releases)
    and extract it.
 
-2. **Add the disc.** Copy the *Ace Combat 3: Electrosphere US Version* (SLUS-00972)
-   `.bin` and `.cue` files into the root folder, next to `ac3r.exe`.
-   The image should match the Redump MD5:
+2. **Add the disc.** Copy the *Ace Combat 3: Electrosphere US Version* (SLUS-00972) or Japan Rev 1 Version (SLPS-02020) 
+   `.bin` and `.cue` files into the root folder, next to `ac3r.exe`. Latest Nemo patched discs are also supported. 
+   The pre-patch disc images should match the Redump MD5:
 
+US
    ```
    9709b211d1e241147bcfe14e95547c5a
+   ```
+   JP (Rev 1) Disc 1
+   ```
+   30f7dce98b6901290cb26c9baf27268f
+   ```
+   JP (Rev 1) Disc 2
+   ```
+   50760963ae8a26ea0188b165f05b33a1
    ```
 
 3. **Run** `ac3r.exe` by double-clicking it.
