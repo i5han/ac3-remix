@@ -42,7 +42,7 @@ US
    |--------------|-------------------------------------------------------|
    | **Original** | The PlayStation's original picture                    |
    | **Clean** (default)   | The same graphics style, rendered clean and sharp     |
-   | **Remaster** | Remastered quality (needs a RTX2000 series or better card with 6Gb VRAM)     |
+   | **Remaster** | Remastered quality (needs a RTX 20 series or better card with 6Gb VRAM)     |
 
    Press **Apply**, close it, and start `ac3r.exe` again.
 
