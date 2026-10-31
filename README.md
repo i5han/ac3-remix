@@ -141,4 +141,3 @@ moving, you can support its development on
 support is hugely appreciated, and so is simply playing, sharing it with
 friends and reporting what you find. Thank you!
 
-<a href="https://www.buymeacoffee.com/ishanantoo" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" style="height: 60px !important;width: 217px !important;" ></a>
